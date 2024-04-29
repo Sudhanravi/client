@@ -112,7 +112,7 @@ const Home = () => {
       <Service />
       <PricingPlan />
       <QuoteSection />
-      <TestimonialSection />
+      {/* <TestimonialSection /> */}
       {/* <TeamSection /> */}
       <Blog />
     </>

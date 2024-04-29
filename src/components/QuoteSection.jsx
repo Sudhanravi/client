@@ -23,7 +23,7 @@ const QuoteSection = () => {
                         </div>
                         <div className="ps-4">
                             <h5 className="mb-2">Call to ask any question</h5>
-                            <h4 className="text-primary mb-0">+012 345 6789</h4>
+                            <h4 className="text-primary mb-0">+91 6303 186 008</h4>
                         </div>
                     </div>
                 </div>

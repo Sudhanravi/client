@@ -7,7 +7,7 @@ const AboutSection = () => {
             <div className="section-title position-relative pb-3 mb-5">
               <h5 className="fw-bold text-primary text-uppercase">About Us</h5>
               <h1 className="mb-0">
-                The Best IT Solution With 10 Years of Experience
+                The Best IT Solution With 7 Years of Experience
               </h1>
             </div>
             <p className="mb-4">

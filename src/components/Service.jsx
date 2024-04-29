@@ -19,8 +19,10 @@ const Service = () => {
               </div>
               <h4 className="mb-3">Web Application</h4>
               <p className="m-0">
-                Amet justo dolor lorem kasd amet magna sea stet eos vero lorem
-                ipsum dolore sed
+                A web application is a computer program that uses web browsers
+                and web technology to perform tasks over the Internet. They can
+                be used for a variety of purposes, such as webmail, online
+                retail sales, and online banking.
               </p>
               <a className="btn btn-lg btn-primary rounded" href="">
                 <i className="bi bi-arrow-right"></i>
@@ -34,8 +36,9 @@ const Service = () => {
               </div>
               <h4 className="mb-3">Data Analytics</h4>
               <p className="m-0">
-                Amet justo dolor lorem kasd amet magna sea stet eos vero lorem
-                ipsum dolore sed
+                Data Analytics is the process of examining data sets to draw
+                conclusions about the information they contain. It is widely
+                used for making decisions and predictions based on data.
               </p>
               <a className="btn btn-lg btn-primary rounded" href="">
                 <i className="bi bi-arrow-right"></i>
@@ -49,8 +52,10 @@ const Service = () => {
               </div>
               <h4 className="mb-3">Website Development</h4>
               <p className="m-0">
-                Amet justo dolor lorem kasd amet magna sea stet eos vero lorem
-                ipsum dolore sed
+                Website Development involves creating, building, and maintaining
+                websites using various programming languages. It encompasses
+                aspects like web design, web publishing, and database
+                management.
               </p>
               <a className="btn btn-lg btn-primary rounded" href="">
                 <i className="bi bi-arrow-right"></i>
@@ -64,8 +69,10 @@ const Service = () => {
               </div>
               <h4 className="mb-3">Apps Development</h4>
               <p className="m-0">
-                Amet justo dolor lorem kasd amet magna sea stet eos vero lorem
-                ipsum dolore sed
+                App Development involves creating software that operates on
+                mobile devices using various programming languages. It includes
+                defining, designing, building, and launching a successful mobile
+                product.
               </p>
               <a className="btn btn-lg btn-primary rounded" href="">
                 <i className="bi bi-arrow-right"></i>
@@ -79,8 +86,10 @@ const Service = () => {
               </div>
               <h4 className="mb-3">Salesforce</h4>
               <p className="m-0">
-                Amet justo dolor lorem kasd amet magna sea stet eos vero lorem
-                ipsum dolore sed
+                Salesforce is a cloud-based customer relationship management
+                (CRM) platform that helps businesses connect with their
+                customers. It streamlines and automates daily processes across
+                various teams with its suite of applications.
               </p>
               <a className="btn btn-lg btn-primary rounded" href="">
                 <i className="bi bi-arrow-right"></i>

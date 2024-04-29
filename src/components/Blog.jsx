@@ -14,10 +14,10 @@ const Blog = () => {
                             <a className="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
                         </div>
                         <div className="p-4">
-                            <div className="d-flex mb-3">
+                            {/* <div className="d-flex mb-3">
                                 <small className="me-3"><i className="far fa-user text-primary me-2"></i>John Doe</small>
                                 <small><i className="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                            </div>
+                            </div> */}
                             <h4 className="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
                             <a className="text-uppercase" href="">Read More <i className="bi bi-arrow-right"></i></a>
@@ -31,11 +31,11 @@ const Blog = () => {
                             <a className="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
                         </div>
                         <div className="p-4">
-                            <div className="d-flex mb-3">
+                            {/* <div className="d-flex mb-3">
                                 <small className="me-3"><i className="far fa-user text-primary me-2"></i>John Doe</small>
                                 <small><i className="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                            </div>
-                            <h4 className="mb-3">How to build a website</h4>
+                            </div> */}
+                            <h4 className="mb-3">How to build a web application</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
                             <a className="text-uppercase" href="">Read More <i className="bi bi-arrow-right"></i></a>
                         </div>
@@ -48,10 +48,10 @@ const Blog = () => {
                             <a className="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
                         </div>
                         <div className="p-4">
-                            <div className="d-flex mb-3">
+                            {/* <div className="d-flex mb-3">
                                 <small className="me-3"><i className="far fa-user text-primary me-2"></i>John Doe</small>
                                 <small><i className="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                            </div>
+                            </div> */}
                             <h4 className="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
                             <a className="text-uppercase" href="">Read More <i className="bi bi-arrow-right"></i></a>
