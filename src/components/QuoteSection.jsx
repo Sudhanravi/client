@@ -16,10 +16,10 @@ const QuoteSection = () => {
                             <h5 className="mb-4"><i className="fa fa-phone-alt text-primary me-3"></i>24 hrs telephone support</h5>
                         </div>
                     </div>
-                    <p className="mb-4">Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
+                    <p className="mb-4">Ready to Transform Your Business? Request a Free IT Quote!</p>
                     <div className="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
                         <div className="bg-primary d-flex align-items-center justify-content-center rounded" style={{ width: '60px', height: '60px' }}>
-                            <i className="fa fa-phone-alt text-white"></i>
+                            <i className="fa fa-phone text-white"></i>
                         </div>
                         <div className="ps-4">
                             <h5 className="mb-2">Call to ask any question</h5>

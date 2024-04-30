@@ -19,7 +19,7 @@ const Blog = () => {
                                 <small><i className="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
                             </div> */}
                             <h4 className="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <p>Here you will get an idea of how to build an website.</p>
                             <a className="text-uppercase" href="">Read More <i className="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -36,7 +36,7 @@ const Blog = () => {
                                 <small><i className="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
                             </div> */}
                             <h4 className="mb-3">How to build a web application</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <p>Here you will get an idea of how to build an web application.</p>
                             <a className="text-uppercase" href="">Read More <i className="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -52,8 +52,8 @@ const Blog = () => {
                                 <small className="me-3"><i className="far fa-user text-primary me-2"></i>John Doe</small>
                                 <small><i className="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
                             </div> */}
-                            <h4 className="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 className="mb-3">How to build a Mobile app</h4>
+                            <p>Here you will get an idea of how to build an mobile app.</p>
                             <a className="text-uppercase" href="">Read More <i className="bi bi-arrow-right"></i></a>
                         </div>
                     </div>

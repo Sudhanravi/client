@@ -1,11 +1,11 @@
-import FactsSection from "../components/FactsSection";
+// import FactsSection from "../components/FactsSection";
 import AboutSection from "../components/AboutSection";
 import FeaturesSection from "../components/FeaturesSection";
 import Service from "../components/Service";
 import PricingPlan from "../components/PricingPlan";
 import QuoteSection from "../components/QuoteSection";
-import TestimonialSection from "../components/TestimonialSection";
-import TeamSection from "../components/Team";
+// import TestimonialSection from "../components/TestimonialSection";
+// import TeamSection from "../components/Team";
 import Blog from "../components/Blog";
 
 const Home = () => {

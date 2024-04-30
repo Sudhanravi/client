@@ -58,13 +58,13 @@ const Contact = () => {
               >
                 <div
                   className="bg-primary d-flex align-items-center justify-content-center rounded"
-                  style={{ maxWidth: "600px" }}
+                  style={{ width: "60px", height: "60px" }}
                 >
-                  <i className="fa fa-phone-alt text-white"></i>
+                  <i className="fa fa-phone text-white"></i>
                 </div>
                 <div className="ps-4">
                   <h5 className="mb-2">Call to ask any question</h5>
-                  <h4 className="text-primary mb-0">+012 345 6789</h4>
+                  <h4 className="text-primary mb-0">+91 6303 186 008</h4>
                 </div>
               </div>
             </div>
@@ -81,7 +81,7 @@ const Contact = () => {
                 </div>
                 <div className="ps-4">
                   <h5 className="mb-2">Email to get free quote</h5>
-                  <h4 className="text-primary mb-0">info@example.com</h4>
+                  <h4 className="text-primary mb-0">dynamicfixinfo@gmail.com</h4>
                 </div>
               </div>
             </div>
@@ -98,7 +98,7 @@ const Contact = () => {
                 </div>
                 <div className="ps-4">
                   <h5 className="mb-2">Visit our office</h5>
-                  <h4 className="text-primary mb-0">123 Street, NY, USA</h4>
+                  <h4 className="text-primary mb-0">Hyderabad, Telangana</h4>
                 </div>
               </div>
             </div>
@@ -152,7 +152,7 @@ const Contact = () => {
             <div className="col-lg-6 wow slideInUp" data-wow-delay="0.6s">
               <iframe
                 className="position-relative rounded w-100 h-100"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                src="https://www.google.com/maps/embed?pb=!1m1https://maps.app.goo.gl/Wd5XfizZC66AE3WG78!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
                 frameborder="0"
                 style={{ minHeight: "350px", border: "0" }}
                 allowfullscreen=""
