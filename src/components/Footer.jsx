@@ -73,27 +73,27 @@ const Footer = () => {
                     <h3 className="text-light mb-0">Quick Links</h3>
                   </div>
                   <div className="link-animated d-flex flex-column justify-content-start">
-                    <a className="text-light mb-2" href="#">
+                    <a className="text-light mb-2" href="/">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Home
                     </a>
-                    <a className="text-light mb-2" href="#">
+                    <a className="text-light mb-2" href="/about">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       About Us
                     </a>
-                    <a className="text-light mb-2" href="#">
+                    <a className="text-light mb-2" href="/services">
                       <i className="bi bi-arrow-right text-primary me-2"></i>Our
                       Services
                     </a>
-                    <a className="text-light mb-2" href="#">
+                    {/* <a className="text-light mb-2" href="#">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Meet The Team
-                    </a>
-                    <a className="text-light mb-2" href="#">
+                    </a> */}
+                    {/* <a className="text-light mb-2" href="/blog">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Latest Blog
-                    </a>
-                    <a className="text-light" href="#">
+                    </a> */}
+                    <a className="text-light" href="/contact">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Contact Us
                     </a>

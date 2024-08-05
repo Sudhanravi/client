@@ -2,7 +2,7 @@
 import AboutSection from "../components/AboutSection";
 import FeaturesSection from "../components/FeaturesSection";
 import Service from "../components/Service";
-import PricingPlan from "../components/PricingPlan";
+// import PricingPlan from "../components/PricingPlan";
 import QuoteSection from "../components/QuoteSection";
 // import TestimonialSection from "../components/TestimonialSection";
 // import TeamSection from "../components/Team";
@@ -110,7 +110,7 @@ const Home = () => {
       <AboutSection />
       <FeaturesSection />
       <Service />
-      <PricingPlan />
+      {/* <PricingPlan /> */}
       <QuoteSection />
       {/* <TestimonialSection /> */}
       {/* <TeamSection /> */}

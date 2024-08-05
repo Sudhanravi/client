@@ -51,7 +51,7 @@ const Navbar = () => {
             <Link to="/services" className="nav-item nav-link">
               Services
             </Link>
-            <div className="nav-item dropdown">
+            {/* <div className="nav-item dropdown">
               <Link
                 to="#"
                 className="nav-link dropdown-toggle"
@@ -77,7 +77,7 @@ const Navbar = () => {
                   Blog Detail
                 </Link>
               </div>
-            </div>
+            </div> */}
             <div className="nav-item dropdown">
               <Link
                 to="#"
@@ -87,14 +87,14 @@ const Navbar = () => {
                 Pages
               </Link>
               <div className="dropdown-menu m-0">
-                <Link
+                {/* <Link
                   to="/price"
                   className={`dropdown-item ${
                     location.pathname === "/price" ? "active" : ""
                   }`}
                 >
                   Pricing Plan
-                </Link>
+                </Link> */}
                 <Link
                   to="/feature"
                   className={`dropdown-item ${
@@ -103,22 +103,22 @@ const Navbar = () => {
                 >
                   Our features
                 </Link>
-                <Link
+                {/* <Link
                   to="/team"
                   className={`dropdown-item ${
                     location.pathname === "" ? "active" : ""
                   }`}
                 >
                   Team Members
-                </Link>
-                <Link
+                </Link> */}
+                {/* <Link
                   to="/testimonial"
                   className={`dropdown-item ${
                     location.pathname === "" ? "active" : ""
                   }`}
                 >
                   Testimonial
-                </Link>
+                </Link> */}
                 <Link
                   to="/quote"
                   className={`dropdown-item ${
