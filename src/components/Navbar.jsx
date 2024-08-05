@@ -48,7 +48,9 @@ const Navbar = () => {
             >
               About
             </Link>
-            <Link to="/services" className="nav-item nav-link">
+            <Link to="/services" className={`nav-item nav-link ${
+                location.pathname === "/services" ? "active" : ""
+              }`}>
               Services
             </Link>
             {/* <div className="nav-item dropdown">
@@ -98,7 +100,7 @@ const Navbar = () => {
                 <Link
                   to="/feature"
                   className={`dropdown-item ${
-                    location.pathname === "" ? "active" : ""
+                    location.pathname === "/feature" ? "active" : ""
                   }`}
                 >
                   Our features
@@ -122,7 +124,7 @@ const Navbar = () => {
                 <Link
                   to="/quote"
                   className={`dropdown-item ${
-                    location.pathname === "" ? "active" : ""
+                    location.pathname === "/quote" ? "active" : ""
                   }`}
                 >
                   Free Quote
@@ -132,7 +134,7 @@ const Navbar = () => {
             <Link
               to="/contact"
               className={`nav-item nav-link ${
-                location.pathname === "" ? "active" : ""
+                location.pathname === "/contact" ? "active" : ""
               }`}
             >
               Contact

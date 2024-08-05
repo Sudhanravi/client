@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Footer = () => {
   return (
     <div>
@@ -73,18 +75,18 @@ const Footer = () => {
                     <h3 className="text-light mb-0">Quick Links</h3>
                   </div>
                   <div className="link-animated d-flex flex-column justify-content-start">
-                    <a className="text-light mb-2" href="/">
+                    <Link className="text-light mb-2" to="/">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Home
-                    </a>
-                    <a className="text-light mb-2" href="/about">
+                    </Link>
+                    <Link className="text-light mb-2" to="/about">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       About Us
-                    </a>
-                    <a className="text-light mb-2" href="/services">
+                    </Link>
+                    <Link className="text-light mb-2" to="/services">
                       <i className="bi bi-arrow-right text-primary me-2"></i>Our
                       Services
-                    </a>
+                    </Link>
                     {/* <a className="text-light mb-2" href="#">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Meet The Team
@@ -93,10 +95,10 @@ const Footer = () => {
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Latest Blog
                     </a> */}
-                    <a className="text-light" href="/contact">
+                    <Link className="text-light" to="/contact">
                       <i className="bi bi-arrow-right text-primary me-2"></i>
                       Contact Us
-                    </a>
+                    </Link>
                   </div>
                 </div>
                 {/* <div className="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
