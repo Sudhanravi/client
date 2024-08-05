@@ -1,17 +1,17 @@
-import { useState } from "react";
+//import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 
 const Navbar = () => {
   const location = useLocation();
 
-  const [refreshPage, setRefreshPage] = useState(false);
+  // const [refreshPage, setRefreshPage] = useState(false);
 
-  if (refreshPage) {
-    // Reload the page when refreshPage is true
-    window.location.reload();
-    // Reset refreshPage state to false after reloading
-    setRefreshPage(false);
-  }
+  // if (refreshPage) {
+  //   // Reload the page when refreshPage is true
+  //   window.location.reload();
+  //   // Reset refreshPage state to false after reloading
+  //   setRefreshPage(false);
+  // }
 
   return (
     <div className="container-fluid position-relative p-0">
@@ -36,7 +36,7 @@ const Navbar = () => {
               className={`nav-item nav-link ${
                 location.pathname === "/" ? "active" : ""
               }`}
-              onClick={() => setRefreshPage(true)}
+              // onClick={() => setRefreshPage(true)}
             >
               Home
             </Link>
