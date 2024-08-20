@@ -31,7 +31,6 @@ import BackToUp from "./components/BackToUp.jsx";
 const Layout = () => {
   return (
     <>
-      <Spinner />
       <Topbar />
       <Navbar />
       <Outlet />
@@ -39,6 +38,7 @@ const Layout = () => {
       {/* <Vendor /> */}
       <Footer />
       <BackToUp />
+      {/* <Spinner /> */}
     </>
   );
 };
